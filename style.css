@@ -1,0 +1,39 @@
+* {
+    font-style: arial;
+    margin: 0px;
+    padding: 0px;
+}
+.headings {
+    height: 155px;
+}
+.nav-item:hover{
+    background-color: rgb(151, 144, 144);
+}
+.navbar{
+    z-index: 100;
+    position: fixed;
+    width: 100%;
+}
+.CR{
+    margin-top: 120px;
+}
+.hero-section {
+    background-image: url(architect.jpg);
+    height: 100vh;
+    background-position:  center;
+    background-size: cover;
+
+}
+#br-text {
+    padding: 10px 12px;
+    background-color: rgba(0, 0, 0, 0.74);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#a-text {
+    letter-spacing: 3px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.br{
+    margin-top: 280px;
+}
