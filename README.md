@@ -1,1 +1,1 @@
-![Uploading image.png…]()
+<img src="" alt="screenshot">
